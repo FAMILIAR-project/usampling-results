@@ -3,8 +3,8 @@
 1,Uniform-CustomSampler.csv,32,21,5,6
 2,Uniform-DistanceBasedSampling.csv,140,0,132,8
 3,Uniform-SMARCH.csv,213,0,168,45
-4,Uniform-UniGen.csv,12,0,0,12
-5,Uniform-STS.csv,234,0,99,135
+4,Uniform-UniGen.csv,13,0,1,12
+5,Uniform-STS.csv,263,0,128,135
 6,Uniform-UNIGEN2.csv,13,1,2,10
 7,Uniform-QuickSampler.csv,257,0,239,18
 8,Uniform-KUS.csv,37,19,6,12
