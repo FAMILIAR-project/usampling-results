@@ -161,6 +161,7 @@
 12,/home/samplingfm/Benchmarks/Blasted_Real/blasted_case116.cnf,74.324,False,False,Uniform-DistanceBasedSampling.csv
 13,/home/samplingfm/Benchmarks/V7/s420_new1_7_4.cnf,201.157,False,False,Uniform-DistanceBasedSampling.csv
 14,/home/samplingfm/Benchmarks/Blasted_Real/blasted_case5.cnf,25992.631,True,False,Uniform-DistanceBasedSampling.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,5600.099,,True,Uniform-UNIGEN2.csv
 0,/home/samplingfm/Benchmarks/V3/s1238a_3_2.cnf,30311.327999999998,True,False,Uniform-UniGen3.csv
 1,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring27.cnf,24829.978,True,False,Uniform-UniGen3.csv
 2,/home/samplingfm/Benchmarks/V3/s510_3_2.cnf,17398.813000000002,True,False,Uniform-UniGen3.csv
@@ -292,7 +293,10 @@
 122,/home/samplingfm/Benchmarks/FMEasy/freetz.cnf,7051.326999999999,,False,Uniform-STS.csv
 123,/home/samplingfm/Benchmarks/FMEasy/fiasco.cnf,0.985,,False,Uniform-STS.csv
 124,/home/samplingfm/Benchmarks/FMEasy/buildroot.cnf,29960.611,,False,Uniform-STS.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,5600.005999999999,,True,Uniform-SPUR.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,4.167,False,False,Uniform-DistanceBasedSampling.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,2.592,False,False,Uniform-STS.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,1.271,False,False,Uniform-STS.csv
 0,/home/samplingfm/Benchmarks/V3/s1238a_3_2.cnf,972.2389999999999,False,False,Uniform-SMARCH.csv
 1,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring27.cnf,0.9129999999999999,,False,Uniform-SMARCH.csv
 2,/home/samplingfm/Benchmarks/V3/s510_3_2.cnf,13.219000000000001,,False,Uniform-SMARCH.csv
@@ -601,6 +605,8 @@
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,4.104,False,False,Uniform-DistanceBasedSampling.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,1306.412,False,False,Uniform-SMARCH.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,4.561,False,False,Uniform-DistanceBasedSampling.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,0.831,,False,Uniform-UNIGEN2.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,0.461,,False,Uniform-UNIGEN2.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,6.107,False,False,Uniform-DistanceBasedSampling.csv
 0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring9.cnf,3197.087,,False,Uniform-QuickSampler.csv
 1,/home/samplingfm/Benchmarks/V3/s349_3_2.cnf,1.6230000000000002,False,False,Uniform-QuickSampler.csv
@@ -727,6 +733,8 @@
 122,/home/samplingfm/Benchmarks/V15/s382_15_7.cnf,2.556,False,False,Uniform-QuickSampler.csv
 123,/home/samplingfm/Benchmarks/Blasted_Real/blasted_case125.cnf,2.89,False,False,Uniform-QuickSampler.csv
 124,/home/samplingfm/Benchmarks/V15/s526a_15_7.cnf,4.2410000000000005,False,False,Uniform-QuickSampler.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,14.514000000000001,False,False,Uniform-KUS.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,8.259,False,False,Uniform-KUS.csv
 0,/home/samplingfm/Benchmarks/V3/s1238a_3_2.cnf,9344.062,False,False,Uniform-KUS.csv
 1,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring27.cnf,1.9380000000000002,,False,Uniform-KUS.csv
 2,/home/samplingfm/Benchmarks/V3/s510_3_2.cnf,0.797,,False,Uniform-KUS.csv
@@ -1129,6 +1137,8 @@
 8,/home/samplingfm/Benchmarks/V15/s953a_15_7.cnf,25954.497000000003,True,False,Uniform-UniGen3.csv
 9,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,8.504,False,False,Uniform-UniGen3.csv
 10,/home/samplingfm/Benchmarks/V3/s420_new_3_2.cnf,19797.881,True,False,Uniform-UniGen3.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,1.179,,False,Uniform-SPUR.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,0.444,,False,Uniform-SPUR.csv
 0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring9.cnf,3358.0759999999996,,False,Uniform-SPUR.csv
 1,/home/samplingfm/Benchmarks/V3/s349_3_2.cnf,1609.194,True,False,Uniform-SPUR.csv
 2,/home/samplingfm/Benchmarks/V15/s510_15_7.cnf,1654.141,True,False,Uniform-SPUR.csv
@@ -1174,6 +1184,8 @@
 1,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring27.cnf,43000.099,,True,Uniform-UNIGEN2.csv
 2,/home/samplingfm/Benchmarks/V3/s510_3_2.cnf,38611.474,True,False,Uniform-UNIGEN2.csv
 3,/home/samplingfm/Benchmarks/Blasted_Real/blasted_case126.cnf,43000.049000000006,,True,Uniform-UNIGEN2.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,5.966,False,False,Uniform-QuickSampler.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,2.42,False,False,Uniform-QuickSampler.csv
 0,/home/samplingfm/Benchmarks/V3/s1238a_3_2.cnf,43000.10400000001,,True,Uniform-UniGen.csv
 1,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring27.cnf,43000.099,,True,Uniform-UniGen.csv
 2,/home/samplingfm/Benchmarks/V3/s510_3_2.cnf,43000.096,,True,Uniform-UniGen.csv
@@ -1242,6 +1254,8 @@
 51,/home/samplingfm/Benchmarks/V15/s344_15_7.cnf,1871.875,True,False,Uniform-SPUR.csv
 52,/home/samplingfm/Benchmarks/Blasted_Real/blasted_case_2_b14_2.cnf,3041.995,True,False,Uniform-SPUR.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,2.372,False,False,Uniform-QuickSampler.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,1.416,,False,Uniform-DistanceBasedSampling.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,0.505,,False,Uniform-DistanceBasedSampling.csv
 0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_case35.cnf,28323.199,True,False,Uniform-UniGen3.csv
 1,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,10.993,False,False,Uniform-UniGen3.csv
 2,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring2.cnf,43000.062000000005,,True,Uniform-UniGen3.csv
@@ -1433,6 +1447,8 @@
 1,/home/samplingfm/Benchmarks/FeatureModels/viper.cnf,43000.109000000004,,True,Uniform-UniGen.csv
 2,/home/samplingfm/Benchmarks/FeatureModels/phycore.cnf,43000.106,,True,Uniform-UniGen.csv
 3,/home/samplingfm/Benchmarks/FeatureModels/cq7708.cnf,43000.109000000004,,True,Uniform-UniGen.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,0.654,,False,Uniform-SMARCH.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,0.462,,False,Uniform-SMARCH.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,937.815,True,False,Uniform-SPUR.csv
 0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_case35.cnf,3012.8340000000003,False,False,Uniform-KUS.csv
 1,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,13.950999999999999,False,False,Uniform-KUS.csv
@@ -1455,13 +1471,21 @@
 18,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring28.cnf,7625.279,,False,Uniform-KUS.csv
 19,/home/samplingfm/Benchmarks/Blasted_Real/blasted_case_1_b11_1.cnf,552.132,False,False,Uniform-KUS.csv
 0,/home/samplingfm/Benchmarks/FMEasy/coreboot.cnf,43000.059,,True,Uniform-SPUR.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,3.932,,False,Uniform-QuickSampler.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,0.478,,False,Uniform-QuickSampler.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,5600.096,,True,Uniform-UniGen.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,4.438,False,False,Uniform-DistanceBasedSampling.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,1942.44,True,False,Uniform-KUS.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/XSEngine.cnf,43000.105,,True,Uniform-CustomSampler.csv
 1,/home/samplingfm/Benchmarks/FeatureModels/viper.cnf,43000.108,,True,Uniform-CustomSampler.csv
 2,/home/samplingfm/Benchmarks/FeatureModels/phycore.cnf,43000.10400000001,,True,Uniform-CustomSampler.csv
 3,/home/samplingfm/Benchmarks/FeatureModels/cq7708.cnf,43000.106,,True,Uniform-CustomSampler.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,1.18,,False,Uniform-UniGen3.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,0.43799999999999994,,False,Uniform-UniGen3.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,1.186,,False,Uniform-CustomSampler.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,0.445,,False,Uniform-CustomSampler.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,3.968,False,False,Uniform-DistanceBasedSampling.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,5411.83,True,False,Uniform-CustomSampler.csv
 0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_case35.cnf,9.07,False,False,Uniform-QuickSampler.csv
 1,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,11.085,False,False,Uniform-QuickSampler.csv
 2,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring2.cnf,1518.749,False,False,Uniform-QuickSampler.csv
@@ -1576,6 +1600,8 @@
 111,/home/samplingfm/Benchmarks/V15/s382_15_7.cnf,3.19,False,False,Uniform-QuickSampler.csv
 112,/home/samplingfm/Benchmarks/Blasted_Real/blasted_case125.cnf,4.0280000000000005,False,False,Uniform-QuickSampler.csv
 113,/home/samplingfm/Benchmarks/V15/s526a_15_7.cnf,5.985,False,False,Uniform-QuickSampler.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,1.177,,False,Uniform-STS.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,0.436,,False,Uniform-STS.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,43000.106,,True,Uniform-UniGen.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/XSEngine.cnf,43000.057,,True,Uniform-UniGen3.csv
 1,/home/samplingfm/Benchmarks/FeatureModels/viper.cnf,43000.107,,True,Uniform-UniGen3.csv
@@ -1583,7 +1609,13 @@
 3,/home/samplingfm/Benchmarks/FeatureModels/cq7708.cnf,43000.107,,True,Uniform-UniGen3.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,17022.839,True,False,Uniform-UniGen3.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,1850.024,True,False,Uniform-KUS.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,3.91,,False,Uniform-UniGen.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,0.506,,False,Uniform-UniGen.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,4.296,False,False,Uniform-DistanceBasedSampling.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,5600.1,,True,Uniform-DistanceBasedSampling.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,137.535,False,False,Uniform-DistanceBasedSampling.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,0.87,,False,Uniform-KUS.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,0.461,,False,Uniform-KUS.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/XSEngine.cnf,104.398,False,False,Uniform-QuickSampler.csv
 1,/home/samplingfm/Benchmarks/FeatureModels/viper.cnf,170.313,False,False,Uniform-QuickSampler.csv
 2,/home/samplingfm/Benchmarks/FeatureModels/phycore.cnf,336.539,False,False,Uniform-QuickSampler.csv
@@ -2451,6 +2483,7 @@
 87,/home/samplingfm/Benchmarks/V15/s526a_15_7.cnf,1.7080000000000002,,False,Uniform-DistanceBasedSampling.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,4.151,False,False,Uniform-DistanceBasedSampling.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,6.096,False,False,Uniform-DistanceBasedSampling.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,5600.015,,True,Uniform-UniGen3.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/XSEngine.cnf,459.17900000000003,False,False,Uniform-DistanceBasedSampling.csv
 1,/home/samplingfm/Benchmarks/FeatureModels/viper.cnf,483.42900000000003,False,False,Uniform-DistanceBasedSampling.csv
 2,/home/samplingfm/Benchmarks/FeatureModels/phycore.cnf,676.388,False,False,Uniform-DistanceBasedSampling.csv
@@ -2573,3 +2606,5 @@
 119,/home/samplingfm/Benchmarks/FMEasy/freebsd-icse11.cnf,14293.158000000001,False,False,Uniform-DistanceBasedSampling.csv
 120,/home/samplingfm/Benchmarks/FMEasy/2.6.33.3-2var.cnf,47.54,,False,Uniform-DistanceBasedSampling.csv
 0,/home/samplingfm/Benchmarks/FeatureModels/FM-3.6.1-refined.cnf,38208.855,True,False,Uniform-UNIGEN2.csv
+0,/home/samplingfm/Benchmarks/Blasted_Real/blasted_squaring26.cnf,1.082,,False,Uniform-SMARCH.csv
+1,/home/samplingfm/Benchmarks/V15/s526_15_7.cnf,8.298,,False,Uniform-SMARCH.csv
