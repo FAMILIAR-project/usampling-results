@@ -1,11 +1,11 @@
 ,sampler,nbench,nTrueUniform,nFalseUniform,nNAUniform
-0,Uniform-KUS.csv,179,68,32,79
+0,Uniform-KUS.csv,192,68,32,92
 1,Uniform-DistanceBasedSampling.csv,252,0,207,45
-2,Uniform-UniGen3.csv,116,1,0,115
-3,Uniform-CustomSampler.csv,176,102,0,74
-4,Uniform-UNIGEN2.csv,116,1,0,115
-5,Uniform-SMARCH.csv,232,0,185,47
+2,Uniform-UniGen3.csv,130,1,0,129
+3,Uniform-CustomSampler.csv,189,102,0,87
+4,Uniform-UNIGEN2.csv,129,1,0,128
+5,Uniform-SMARCH.csv,252,0,203,49
 6,Uniform-QuickSampler.csv,268,0,258,10
-7,Uniform-UniGen.csv,115,0,0,115
+7,Uniform-UniGen.csv,123,0,0,123
 8,Uniform-SPUR.csv,11,0,0,11
 9,Uniform-STS.csv,268,0,135,133
